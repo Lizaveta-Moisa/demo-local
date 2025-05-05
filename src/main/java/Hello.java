@@ -5,6 +5,6 @@ public class Hello {
         int sum = 0;
 
         sum = c - d;
-        System.out.println("Разница между c и d равна - " + sum);
+        System.out.println("Разница между c и dд равна - " + sum);
     }
 }
